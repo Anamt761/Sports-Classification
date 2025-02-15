@@ -59,7 +59,7 @@ Three deep learning models are trained:
 ## **Installation & Usage**
 ### **Step 1: Clone Repository**
 ```bash
-git clone https://github.com/your-username/sports-classification.git
+git clone https://github.com/Anamt761/sports-classification.git
 cd sports-classification
 ```
 
