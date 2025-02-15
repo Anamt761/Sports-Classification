@@ -85,9 +85,9 @@ Open the **sports_classification.ipynb** file and run all cells.
 📊 **Comparison Table:**
 | Model       | Accuracy  | Precision | Recall  | F1-Score |
 |------------|-----------|-----------|---------|----------|
-| **DNN**    | 85.3%     | 0.85      | 0.84    | 0.83     |
-| **ResNet50** | 92.7%  | 0.93      | 0.92    | 0.92     |
-| **MobileNetV3** | 95.4% | 0.95   | 0.95    | 0.95     |
+| **DNN**    | 98%     | 0.98    | 0.98    | 0.98    |
+| **ResNet50** | 96%  | 0.93      | 0.92    | 0.92     |
+| **MobileNetV3** | 94% | 0.91   | 0.93    | 0.91     |
 
 ---
 
@@ -99,12 +99,6 @@ Open the **sports_classification.ipynb** file and run all cells.
 
 ---
 
-## **Contributors**
-👨‍💻 **Author**: Anam Naz  
-📧 **Contact**: [Your Email]  
-🔗 **LinkedIn**: [Your LinkedIn Profile]  
-
----
 
 ## **License**
 This project is licensed under the **MIT License**.
